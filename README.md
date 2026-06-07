@@ -16,7 +16,7 @@ Backend / Automation / Power Platform focused builder
 ## Featured Projects
 - FortiAnswer Orchestrator — AI-powered incident response assistant
 - Power BI Dashboard — service desk / operations analytics
-- Power Platform App — workflow automation solution
+- Power Platform  — workflow automation solution
 
 ## What I'm Working On
 - Portfolio projects for automation and cloud integration
